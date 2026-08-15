@@ -1,4 +1,4 @@
-# A flower, for him
+# A flower, for them
 
 **Live:** https://blank058.github.io/FlowerBloom/
 
@@ -34,9 +34,9 @@ for more than one person:
 index.html?name=Sam
 ```
 
-## Sending it to him
+## Sending it to them
 
-Send him the link: **https://blank058.github.io/FlowerBloom/**
+Send them the link: **https://blank058.github.io/FlowerBloom/**
 
 Or attach `index.html` directly — it's self-contained, so it works offline with no host at all.
 
