@@ -1,0 +1,4 @@
+.DS_Store
+
+# local Claude Code settings (machine-specific paths)
+.claude/settings.local.json
