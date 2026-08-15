@@ -1,5 +1,7 @@
 # A flower, for him
 
+**Live:** https://blank058.github.io/FlowerBloom/
+
 A single-page web app: a bud opens into a flower, and a few words appear underneath.
 No build step, no dependencies, no internet needed — one file you can open by double-clicking.
 
@@ -34,9 +36,18 @@ index.html?name=Sam
 
 ## Sending it to him
 
-- **Simplest** — email or message him `index.html`. It's self-contained; it works offline.
-- **As a link** — drop the file into Netlify Drop, GitHub Pages, or any static host.
-  There's nothing to configure.
+Send him the link: **https://blank058.github.io/FlowerBloom/**
+
+Or attach `index.html` directly — it's self-contained, so it works offline with no host at all.
+
+### Publishing an edit
+
+Pages rebuilds from `main` on every push, so updating the words is three commands and
+about a minute's wait:
+
+```bash
+git commit -am "Update the words" && git push
+```
 
 ## How the bloom is put together
 
